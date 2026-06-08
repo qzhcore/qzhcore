@@ -43,8 +43,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qzhcore&" alt="qzhcore" /></p>
 
-### 📈 Activity Overview
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/qzhcore?plugins.lines=1&plugins.habits=1&plugins.habits.charts=1&config.timezone=Europe/Paris" alt="Metrics Radar Chart" width="100%" />
-</p>
