@@ -1,45 +1,81 @@
-# Hi 👋, I'm  qzhl
-
-### A passionate Multistack developer
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=qzhcore&label=Profile views&color=0e75b6&style=flat" alt="qzhcore" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qzhcore" alt="qzhcore" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/qzhcore" target="blank"><img src="https://img.shields.io/twitter/follow/qzhcore?logo=twitter&style=for-the-badge" alt="qzhcore" /></a> </p>
-
-- 🔭 I'm currently working on **Anime Starfall, Bomb Tag**
-
-- 🌱 I'm currently learning **deep-level performance profiling and advanced systems engineering.**
-
-- 👯 I'm looking to collaborate on **open-source projects involving Rust, Go, or complex React/TypeScript applications.**
-
-- 🤝 I'm looking for help with **mastering advanced Assembly concepts and low-level memory management optimizations.**
-
-- 💬 Ask me about **web development (React, TS, PHP), game scripting (Lua/Luau), or systems programming (C, C++, Rust).**
-
-- 📫 How to reach me **expressionsqzhl@gmail.com**
-
-- ⚡ Fun fact **I write code that ranges from low-level Assembly hardware instructions all the way up to high-level web interfaces!**
-
-- 👨‍💻 All of my projects are available at **[https://discord.gg/P9YVDujmfJ](https://discord.gg/P9YVDujmfJ)**
-
-- 📝 I regularly write articles on **[https://guns.lol/qzhl](https://guns.lol/qzhl)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/qzhcore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="qzhcore" height="30" width="40" /></a>
-<a href="https://twitter.com/qzhcore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="qzhcore" height="30" width="40" /></a>
-<a href="https://youtube.com/https://www.youtube.com/@weluvdarkk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@weluvdarkk" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/P9YVDujmfJ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/P9YVDujmfJ" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/amplify" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/blender" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=blender" alt="blender" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/canvasjs" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/go" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/middleman" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="middleman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/reactnative" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ruby" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ruby" alt="ruby" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/rust" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=rust" alt="rust" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sculpin" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="sculpin" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/swift" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=swift" alt="swift" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/unity" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/unreal" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unreal" alt="unreal" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/zapier" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/zapier/FF4A00" alt="zapier" width="40" height="40"/> </a></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qzhcore&show_icons=true&locale=en&layout=compact" alt="qzhcore" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qzhcore&show_icons=true&locale=en" alt="qzhcore" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qzhcore&" alt="qzhcore" /></p>
-
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d0d0d&height=120&section=header" width="100%"/>
+# qzhcore
+ 
+**Systems · Web · Game Engineering**
+ 
+[![Profile Views](https://komarev.com/ghpvc/?username=qzhcore&label=profile+views&color=161616&style=flat)](https://github.com/qzhcore)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/qzhcore?label=followers&style=flat&color=161616&labelColor=0d0d0d)](https://github.com/qzhcore)
+ 
+</div>
+---
+ 
+### About
+ 
+Full-stack engineer and studio owner operating across systems, web, and game development. I write low-level code in Rust, C++, and Assembly, build scalable web infrastructure with Go, Python, TypeScript, and PHP, and ship production Roblox titles under [**Darkk Games**](https://discord.gg/P9YVDujmfJ).
+ 
+Currently building **Anime Starfall** — an anime tower defense game on Roblox.
+ 
+---
+ 
+### Stack
+ 
+**Systems**
+`Rust` `C++` `C` `Assembly` `Go`
+ 
+**Web & Backend**
+`TypeScript` `React` `Node.js` `Python` `PHP` `Ruby` `SQL` `HTML/CSS`
+ 
+**Infrastructure**
+`AWS` `Docker` `Linux` `Git`
+ 
+**Game & Engine**
+`Lua / Luau` `Roblox Studio` `Unity` `Unreal Engine`
+ 
+**ML / Tooling**
+`PyTorch` `Ollama` `Blender` `Arduino`
+ 
+---
+ 
+### Stats
+ 
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=qzhcore&show_icons=true&theme=dark&bg_color=0d0d0d&border_color=1a1a1a&icon_color=ffffff&title_color=ffffff&text_color=888888&hide_border=false&include_all_commits=true&count_private=true" height="165"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=qzhcore&layout=compact&theme=dark&bg_color=0d0d0d&border_color=1a1a1a&title_color=ffffff&text_color=888888&hide_border=false&langs_count=8" height="165"/>
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=qzhcore&theme=dark&background=0d0d0d&border=1a1a1a&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=555555&currStreakNum=ffffff&sideNums=888888" height="165"/>
+</div>
+---
+ 
+### Trophies
+ 
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=qzhcore&theme=darkhub&no-bg=true&no-frame=true&margin-w=8&column=7"/>
+</div>
+---
+ 
+### Darkk Games
+ 
+<div align="center">
+> Independent Roblox studio. Currently in active development on **Anime Starfall**.
+ 
+[![Discord](https://img.shields.io/badge/Discord-Join_Server-1a1a1a?style=flat&logo=discord&logoColor=white)](https://discord.gg/P9YVDujmfJ)
+&nbsp;
+[![YouTube](https://img.shields.io/badge/YouTube-@weluvdarkk-1a1a1a?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@weluvdarkk)
+ 
+</div>
+---
+ 
+### Contact
+ 
+[![Email](https://img.shields.io/badge/Email-expressionsqzhl@gmail.com-1a1a1a?style=flat&logo=gmail&logoColor=white)](mailto:expressionsqzhl@gmail.com)
+&nbsp;
+[![Twitter](https://img.shields.io/badge/Twitter-@qzhcore-1a1a1a?style=flat&logo=x&logoColor=white)](https://twitter.com/qzhcore)
+ 
+---
+ 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d0d0d&height=80&section=footer" width="100%"/>
+</div>
