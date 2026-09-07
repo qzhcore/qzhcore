@@ -18,7 +18,7 @@
 <table width="100%" style="border: none;">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Icons/master/Emojis/Smilies/Robot.png" width="28" /> <b>about me</b></h3>
+      <h3 align="left">🤖 <b>about me</b></h3>
       <p>Hey, I'm <b>qzhl</b>. I'm a software engineer, multistack programmer, and game studio owner focused on building low-level systems, web infrastructure, and high-performance game architectures.</p>
       <p>I work with C++, Rust, and Luau, writing custom networking and anti-cheat solutions. Currently leading engineering on <b>Anime Starfall</b> and developing production titles under <a href="https://discord.gg/P9YVDujmfJ"><b>Darkk Games</b></a>.</p>
     </td>
@@ -32,7 +32,7 @@
 
 <br />
 
-<h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Icons/master/Emojis/Activities/Video%20Game.png" width="28" /> <b>darkk games</b></h3>
+<h3 align="left">🎮 <b>darkk games</b></h3>
 
 <p align="left">Independent Roblox development studio building server-authoritative multiplayer games and immersive experiences.</p>
 
@@ -45,7 +45,7 @@
 
 <br />
 
-<h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Icons/master/Emojis/Objects/Laptop.png" width="28" /> <b>stack & architecture</b></h3>
+<h3 align="left">💻 <b>stack & architecture</b></h3>
 
 <div align="center">
   <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" /></a>
@@ -62,7 +62,7 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Icons/master/Emojis/Travel%20and%20places/Rocket.png" width="28" /> <b>stats & activity</b></h3>
+      <h3 align="left">🚀 <b>stats & activity</b></h3>
       <div align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=qzhcore&theme=tokyonight&background=0d0d0d&border=1a1a1a&ring=7aa2f7&fire=7dcfff&currStreakLabel=7dcfff&sideLabels=a9b1d6&dates=555555&currStreakNum=ffffff&sideNums=a9b1d6&hide_border=true" width="100%" alt="Streak Stats" />
         <br/><br/>
@@ -70,13 +70,11 @@
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Icons/master/Emojis/Symbols/Musical%20Notes.png" width="28" /> <b>currently listening</b></h3>
+      <h3 align="left">📊 <b>github metrics</b></h3>
       <div align="center">
-        <a href="https://open.spotify.com/user/31jz6fxoielwykz4tk45p55a4pza">
-          <img src="https://spotify-github-profile.vercel.app/api/view?uid=31jz6fxoielwykz4tk45p55a4pza&cover_image=true&theme=tokyonight&show_offline=true&background_color=0d0d0d&interchange=true" width="100%" alt="Spotify Listening" />
-        </a>
-        <br/><br/>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=qzhcore&layout=compact&theme=tokyonight&bg_color=0d0d0d&border_color=1a1a1a&title_color=7dcfff&text_color=a9b1d6&hide_border=true&langs_count=6" width="100%" alt="Top Languages" />
+        <br/><br/>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=qzhcore&theme=react-dark&bg_color=0d0d0d&color=7dcfff&line=7aa2f7&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
       </div>
     </td>
   </tr>
@@ -90,7 +88,7 @@
 
 <br />
 
-<h3 align="center"><b>connect</b></h3>
+<h3 align="center">🔗 <b>connect</b></h3>
 
 <div align="center">
   <a href="mailto:expressionsqzhl@gmail.com"><img src="https://img.shields.io/badge/Email-expressionsqzhl@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
