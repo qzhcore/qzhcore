@@ -2,10 +2,9 @@
 
   <img src="https://raw.githubusercontent.com/qzhcore/qzhcore/main/054bc831-b1da-43c8-8b4d-e67a59fb2f5e.jpg" width="100%" alt="Header Banner" />
 
-  <h1><b>qzhl</b></h1>
+  <br /><br />
 
-  <p><code>Software Engineer • Multistack Programmer • Studio Owner at Darkk Games</code></p>
-  <p><code>Future Doctor of Business Administration</code></p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7DCFFF&center=true&vCenter=true&width=500&height=50&lines=qzhl;Software+Engineer;Studio+Owner+%40+Darkk+Games;Future+DBA" alt="Typing Animation" />
 
   <br />
 
@@ -94,6 +93,8 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=qzhcore&theme=tokyonight&background=0d0d0d&border=1a1a1a&ring=7aa2f7&fire=7dcfff&currStreakLabel=7dcfff&sideLabels=a9b1d6&dates=555555&currStreakNum=ffffff&sideNums=a9b1d6" height="170" alt="Streak Stats" />
+  &nbsp;
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=qzhcore&theme=react-dark&bg_color=0d0d0d&color=7dcfff&line=7aa2f7&point=ffffff&area=true&hide_border=true" height="170" alt="Activity Graph" />
 </div>
 
 <hr />
@@ -111,16 +112,6 @@
   &nbsp;
   <a href="https://www.youtube.com/@weluvdarkk">
     <img src="https://img.shields.io/badge/YouTube-@weluvdarkk-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-</div>
-
-<hr />
-
-<h3 align="left"><b>currently listening</b></h3>
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31jz6fxoielwykz4tk45p55a4pza?si=21ed3282c4874bc1">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31jz6fxoielwykz4tk45p55a4pza&count=4&theme=tokyonight" alt="Recently Played" />
   </a>
 </div>
 
@@ -144,6 +135,9 @@
 
 <br />
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d0d0d&height=80&section=footer" width="100%" alt="Footer Banner" />
+</div>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d0d0d&height=80&section=footer" width="100%" alt="Footer Banner" />
 </div>
