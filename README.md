@@ -58,23 +58,32 @@
 <h3 align="left"><b>stats & activity</b></h3>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qzhcore&theme=tokyonight&background=0d0d0d&border=1a1a1a&ring=7aa2f7&fire=7dcfff&currStreakLabel=7dcfff&sideLabels=a9b1d6&dates=555555&currStreakNum=ffffff&sideNums=a9b1d6&hide_border=true" width="100%" alt="Streak Stats" />
-  <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api?username=qzhcore&show_icons=true&theme=tokyonight&bg_color=0d0d0d&border_color=1a1a1a&icon_color=7aa2f7&title_color=7dcfff&text_color=a9b1d6&hide_border=true&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats" />
-  <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=qzhcore&layout=compact&theme=tokyonight&bg_color=0d0d0d&border_color=1a1a1a&title_color=7dcfff&text_color=a9b1d6&hide_border=true&langs_count=6" width="100%" alt="Top Languages" />
-  <br /><br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=qzhcore&theme=react-dark&bg_color=0d0d0d&color=7dcfff&line=7aa2f7&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://streak-stats.demolab.com/?user=qzhcore&theme=tokyonight&background=0d0d0d&border=1a1a1a&ring=7aa2f7&fire=7dcfff&currStreakLabel=7dcfff&sideLabels=a9b1d6&dates=555555&currStreakNum=ffffff&sideNums=a9b1d6&hide_border=true" width="100%" alt="Streak Stats" />
 </div>
 
 <br />
 
-<h3 align="left"><b>recently played on spotify</b></h3>
+<table align="center">
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=qzhcore&show_icons=true&theme=tokyonight&bg_color=0d0d0d&border_color=1a1a1a&icon_color=7aa2f7&title_color=7dcfff&text_color=a9b1d6&hide_border=true&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=qzhcore&layout=compact&theme=tokyonight&bg_color=0d0d0d&border_color=1a1a1a&title_color=7dcfff&text_color=a9b1d6&hide_border=true&langs_count=6" width="100%" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<br />
 
 <div align="center">
-  <a href="https://open.spotify.com/user/31jz6fxoielwykz4tk45p55a4pza">
-    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31jz6fxoielwykz4tk45p55a4pza&count=3&theme=tokyonight" alt="Recently Played Spotify Tracks" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=qzhcore&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&margin-h=8&column=7" width="100%" alt="GitHub Trophies" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=qzhcore&theme=react-dark&bg_color=0d0d0d&color=7dcfff&line=7aa2f7&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
 <br />
@@ -90,7 +99,6 @@
 <div align="center">
   <a href="mailto:expressionsqzhl@gmail.com"><img src="https://img.shields.io/badge/Email-expressionsqzhl@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://twitter.com/qzhcore"><img src="https://img.shields.io/badge/Twitter-@qzhcore-1da1f2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
-  <a href="https://open.spotify.com/user/31jz6fxoielwykz4tk45p55a4pza"><img src="https://img.shields.io/badge/Spotify-Profile-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" /></a>
 </div>
 
 <br /><br />
