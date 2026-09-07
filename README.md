@@ -1,3 +1,35 @@
+<div align="center">
+
+  <img src="https://raw.githubusercontent.com/qzhcore/qzhcore/main/054bc831-b1da-43c8-8b4d-e67a59fb2f5e.jpg" width="100%" style="border-radius: 12px;" alt="Header Banner" />
+
+  <br /><br />
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DCFFF&center=true&vCenter=true&width=600&height=50&lines=Software+Engineer+%E2%80%A2+Multistack+Programmer;Studio+Owner+%40+Darkk+Games;Future+Doctor+of+Business+Administration" alt="Typing Animation" />
+
+  <br />
+
+  <a href="https://github.com/qzhcore"><img src="https://komarev.com/ghpvc/?username=qzhcore&label=PROFILE+VIEWS&color=0d0d0d&style=for-the-badge" alt="Profile Views" /></a>
+  <a href="https://github.com/qzhcore"><img src="https://img.shields.io/github/followers/qzhcore?label=FOLLOWERS&style=for-the-badge&color=0d0d0d&labelColor=1a1a1a" alt="GitHub Followers" /></a>
+
+</div>
+
+<br />
+
+<h3 align="left"><b>about me</b></h3>
+
+<p>Hey, I'm <b>qzhl</b>. I'm a software engineer, multistack programmer, and game studio owner focused on building low-level systems, web infrastructure, and high-performance game architectures.</p>
+
+<p>I work with C++, Rust, and Luau, writing custom networking and anti-cheat solutions. Currently leading engineering on <b>Anime Starfall</b> and developing production titles under <a href="https://discord.gg/P9YVDujmfJ"><b>Darkk Games</b></a>.</p>
+
+<div align="center">
+  <br />
+  <img src="https://raw.githubusercontent.com/qzhcore/qzhcore/main/VN20260730_143501_GitHub.gif" width="100%" style="border-radius: 10px; border: 1px solid #1a1a1a;" alt="Anime Starfall Gameplay Demo" />
+</div>
+
+<br />
+
+<h3 align="left"><b>darkk games</b></h3>
+
 <p>Independent Roblox development studio building server-authoritative multiplayer games and immersive experiences.</p>
 
 <div align="center">
