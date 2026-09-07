@@ -15,26 +15,22 @@
 
 <br />
 
-<table width="100%" style="border: none;">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="left">🤖 <b>about me</b></h3>
-      <p>Hey, I'm <b>qzhl</b>. I'm a software engineer, multistack programmer, and game studio owner focused on building low-level systems, web infrastructure, and high-performance game architectures.</p>
-      <p>I work with C++, Rust, and Luau, writing custom networking and anti-cheat solutions. Currently leading engineering on <b>Anime Starfall</b> and developing production titles under <a href="https://discord.gg/P9YVDujmfJ"><b>Darkk Games</b></a>.</p>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <img src="https://raw.githubusercontent.com/qzhcore/qzhcore/main/VN20260730_143501_GitHub.gif" width="100%" style="border-radius: 10px; border: 1px solid #1a1a1a;" alt="Anime Starfall Gameplay Demo" />
-      </div>
-    </td>
-  </tr>
-</table>
+<h3 align="left"><b>about me</b></h3>
+
+<p>Hey, I'm <b>qzhl</b>. I'm a software engineer, multistack programmer, and game studio owner focused on building low-level systems, web infrastructure, and high-performance game architectures.</p>
+
+<p>I work with C++, Rust, and Luau, writing custom networking and anti-cheat solutions. Currently leading engineering on <b>Anime Starfall</b> and developing production titles under <a href="https://discord.gg/P9YVDujmfJ"><b>Darkk Games</b></a>.</p>
+
+<div align="center">
+  <br />
+  <img src="https://raw.githubusercontent.com/qzhcore/qzhcore/main/VN20260730_143501_GitHub.gif" width="100%" style="border-radius: 10px; border: 1px solid #1a1a1a;" alt="Anime Starfall Gameplay Demo" />
+</div>
 
 <br />
 
-<h3 align="left">🎮 <b>darkk games</b></h3>
+<h3 align="left"><b>darkk games</b></h3>
 
-<p align="left">Independent Roblox development studio building server-authoritative multiplayer games and immersive experiences.</p>
+<p>Independent Roblox development studio building server-authoritative multiplayer games and immersive experiences.</p>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/qzhcore/qzhcore/main/copy_0825CE3A-6AA8-4945-B3E9-C7CAE2BB9E4D-1-1-1.gif" width="100%" style="border-radius: 10px; border: 1px solid #1a1a1a;" alt="Darkk Games Preview" />
@@ -45,7 +41,7 @@
 
 <br />
 
-<h3 align="left">💻 <b>stack & architecture</b></h3>
+<h3 align="left"><b>stack & architecture</b></h3>
 
 <div align="center">
   <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" /></a>
@@ -59,26 +55,27 @@
 
 <br />
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="left">🚀 <b>stats & activity</b></h3>
-      <div align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=qzhcore&theme=tokyonight&background=0d0d0d&border=1a1a1a&ring=7aa2f7&fire=7dcfff&currStreakLabel=7dcfff&sideLabels=a9b1d6&dates=555555&currStreakNum=ffffff&sideNums=a9b1d6&hide_border=true" width="100%" alt="Streak Stats" />
-        <br/><br/>
-        <img src="https://github-readme-stats.vercel.app/api?username=qzhcore&show_icons=true&theme=tokyonight&bg_color=0d0d0d&border_color=1a1a1a&icon_color=7aa2f7&title_color=7dcfff&text_color=a9b1d6&hide_border=true&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats" />
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="left">📊 <b>github metrics</b></h3>
-      <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=qzhcore&layout=compact&theme=tokyonight&bg_color=0d0d0d&border_color=1a1a1a&title_color=7dcfff&text_color=a9b1d6&hide_border=true&langs_count=6" width="100%" alt="Top Languages" />
-        <br/><br/>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=qzhcore&theme=react-dark&bg_color=0d0d0d&color=7dcfff&line=7aa2f7&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-      </div>
-    </td>
-  </tr>
-</table>
+<h3 align="left"><b>stats & activity</b></h3>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qzhcore&theme=tokyonight&background=0d0d0d&border=1a1a1a&ring=7aa2f7&fire=7dcfff&currStreakLabel=7dcfff&sideLabels=a9b1d6&dates=555555&currStreakNum=ffffff&sideNums=a9b1d6&hide_border=true" width="100%" alt="Streak Stats" />
+  <br /><br />
+  <img src="https://github-readme-stats.vercel.app/api?username=qzhcore&show_icons=true&theme=tokyonight&bg_color=0d0d0d&border_color=1a1a1a&icon_color=7aa2f7&title_color=7dcfff&text_color=a9b1d6&hide_border=true&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats" />
+  <br /><br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=qzhcore&layout=compact&theme=tokyonight&bg_color=0d0d0d&border_color=1a1a1a&title_color=7dcfff&text_color=a9b1d6&hide_border=true&langs_count=6" width="100%" alt="Top Languages" />
+  <br /><br />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=qzhcore&theme=react-dark&bg_color=0d0d0d&color=7dcfff&line=7aa2f7&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+</div>
+
+<br />
+
+<h3 align="left"><b>recently played on spotify</b></h3>
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31jz6fxoielwykz4tk45p55a4pza">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31jz6fxoielwykz4tk45p55a4pza&count=3&theme=tokyonight" alt="Recently Played Spotify Tracks" />
+  </a>
+</div>
 
 <br />
 
@@ -88,7 +85,7 @@
 
 <br />
 
-<h3 align="center">🔗 <b>connect</b></h3>
+<h3 align="center"><b>connect</b></h3>
 
 <div align="center">
   <a href="mailto:expressionsqzhl@gmail.com"><img src="https://img.shields.io/badge/Email-expressionsqzhl@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
