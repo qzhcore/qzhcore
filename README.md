@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://i.pinimg.com/736x/a7/42/4d/a7424d8cc683dd9ba1a669d4aa8a9312.jpg" width="100%" alt="Header Banner" />
+  <img src="https://i.pinimg.com/736x/24/9e/ea/249eea1a613881d7e935fefc1ebdf523.jpg" width="100%" alt="Header Banner" />
 
   <h1><b>qzhl</b></h1>
 
@@ -71,9 +71,7 @@
 <h3 align="left"><b>contributions</b></h3>
 
 <div align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=qzhcore&theme=react-dark&bg_color=0d0d0d&color=555555&line=ffffff&point=ffffff&hide_border=true" width="100%" alt="qzhcore Activity Graph" />
-  </a>
+  <img src="https://raw.githubusercontent.com/qzhcore/qzhcore/output/github-contribution-grid-snake-dark.svg" width="100%" alt="3D Contribution Snake" />
 </div>
 
 <hr />
@@ -84,8 +82,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=qzhcore&show_icons=true&theme=dark&bg_color=0d0d0d&border_color=1a1a1a&icon_color=ffffff&title_color=ffffff&text_color=888888&hide_border=false&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats" />
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=qzhcore&layout=compact&theme=dark&bg_color=0d0d0d&border_color=1a1a1a&title_color=ffffff&text_color=888888&hide_border=false&langs_count=8" height="165" alt="Top Languages" />
-  <br /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qzhcore&theme=dark&background=0d0d0d&border=1a1a1a&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=555555&currStreakNum=ffffff&sideNums=888888" height="165" alt="Streak Stats" />
 </div>
 
 <hr />
