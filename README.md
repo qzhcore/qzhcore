@@ -93,10 +93,6 @@
 <h3 align="left"><b>stats & activity</b></h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qzhcore&show_icons=true&theme=tokyonight&bg_color=0d0d0d&border_color=1a1a1a&icon_color=7aa2f7&title_color=7dcfff&text_color=a9b1d6&hide_border=false&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=qzhcore&layout=compact&theme=tokyonight&bg_color=0d0d0d&border_color=1a1a1a&title_color=7dcfff&text_color=a9b1d6&hide_border=false&langs_count=8" height="170" alt="Top Languages" />
-  <br /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=qzhcore&theme=tokyonight&background=0d0d0d&border=1a1a1a&ring=7aa2f7&fire=7dcfff&currStreakLabel=7dcfff&sideLabels=a9b1d6&dates=555555&currStreakNum=ffffff&sideNums=a9b1d6" height="170" alt="Streak Stats" />
 </div>
 
@@ -115,6 +111,16 @@
   &nbsp;
   <a href="https://www.youtube.com/@weluvdarkk">
     <img src="https://img.shields.io/badge/YouTube-@weluvdarkk-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+</div>
+
+<hr />
+
+<h3 align="left"><b>currently listening</b></h3>
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31jz6fxoielwykz4tk45p55a4pza?si=21ed3282c4874bc1">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31jz6fxoielwykz4tk45p55a4pza&count=4&theme=tokyonight" alt="Recently Played" />
   </a>
 </div>
 
