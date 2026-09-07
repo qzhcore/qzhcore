@@ -1,40 +1,51 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/qzhcore/qzhcore/main/054bc831-b1da-43c8-8b4d-e67a59fb2f5e.jpg" width="100%" alt="Header Banner" />
+  <img src="https://raw.githubusercontent.com/qzhcore/qzhcore/main/054bc831-b1da-43c8-8b4d-e67a59fb2f5e.jpg" width="100%" style="border-radius: 12px;" alt="Header Banner" />
 
   <br /><br />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7DCFFF&center=true&vCenter=true&width=500&height=50&lines=qzhl;Software+Engineer;Studio+Owner+%40+Darkk+Games;Future+DBA" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DCFFF&center=true&vCenter=true&width=600&height=50&lines=Software+Engineer+%E2%80%A2+Multistack+Programmer;Studio+Owner+%40+Darkk+Games;Future+Doctor+of+Business+Administration" alt="Typing Animation" />
 
   <br />
 
-  <a href="https://github.com/qzhcore">
-    <img src="https://komarev.com/ghpvc/?username=qzhcore&label=profile+views&color=0d0d0d&style=flat-square" alt="Profile Views" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/qzhcore">
-    <img src="https://img.shields.io/github/followers/qzhcore?label=followers&style=flat-square&color=0d0d0d&labelColor=1a1a1a" alt="GitHub Followers" />
-  </a>
+  <a href="https://github.com/qzhcore"><img src="https://komarev.com/ghpvc/?username=qzhcore&label=PROFILE+VIEWS&color=0d0d0d&style=for-the-badge" alt="Profile Views" /></a>
+  <a href="https://github.com/qzhcore"><img src="https://img.shields.io/github/followers/qzhcore?label=FOLLOWERS&style=for-the-badge&color=0d0d0d&labelColor=1a1a1a" alt="GitHub Followers" /></a>
 
 </div>
-
-<hr />
-
-<h3 align="left"><b>about</b></h3>
-
-<p>Hey, I'm qzhl. I'm a software engineer, multistack programmer, and game studio owner focused on building low-level systems, web infrastructure, and high-performance game architectures. I work with C++, Rust, and Luau, write custom networking and anti-cheat solutions, and develop production titles under <a href="https://discord.gg/P9YVDujmfJ"><b>Darkk Games</b></a>.</p>
-
-<p>Right now, I'm leading engineering and active development on <b>Anime Starfall</b>, an anime tower defense game on Roblox, while laying the groundwork for a future Doctor of Business Administration.</p>
 
 <br />
 
+<table width="100%" style="border: none;">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Icons/master/Emojis/Smilies/Robot.png" width="28" /> <b>about me</b></h3>
+      <p>Hey, I'm <b>qzhl</b>. I'm a software engineer, multistack programmer, and game studio owner focused on building low-level systems, web infrastructure, and high-performance game architectures.</p>
+      <p>I work with C++, Rust, and Luau, writing custom networking and anti-cheat solutions. Currently leading engineering on <b>Anime Starfall</b> and developing production titles under <a href="https://discord.gg/P9YVDujmfJ"><b>Darkk Games</b></a>.</p>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <img src="https://raw.githubusercontent.com/qzhcore/qzhcore/main/VN20260730_143501_GitHub.gif" width="100%" style="border-radius: 10px; border: 1px solid #1a1a1a;" alt="Anime Starfall Gameplay Demo" />
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Icons/master/Emojis/Activities/Video%20Game.png" width="28" /> <b>darkk games</b></h3>
+
+<p align="left">Independent Roblox development studio building server-authoritative multiplayer games and immersive experiences.</p>
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/qzhcore/qzhcore/main/VN20260730_143501_GitHub.gif" width="100%" style="border-radius: 8px; border: 1px solid #1a1a1a;" alt="Anime Starfall Gameplay Demo" />
+  <img src="https://raw.githubusercontent.com/qzhcore/qzhcore/main/copy_0825CE3A-6AA8-4945-B3E9-C7CAE2BB9E4D-1-1-1.gif" width="100%" style="border-radius: 10px; border: 1px solid #1a1a1a;" alt="Darkk Games Preview" />
+  <br /><br />
+  <a href="https://discord.gg/P9YVDujmfJ"><img src="https://img.shields.io/badge/Discord-Join_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://www.youtube.com/@weluvdarkk"><img src="https://img.shields.io/badge/YouTube-@weluvdarkk-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
 </div>
 
-<hr />
+<br />
 
-<h3 align="left"><b>core skills</b></h3>
+<h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Icons/master/Emojis/Objects/Laptop.png" width="28" /> <b>stack & architecture</b></h3>
 
 <div align="center">
   <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" /></a>
@@ -46,98 +57,49 @@
   <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
 </div>
 
-<hr />
+<br />
 
-<h3 align="left"><b>stack & architecture</b></h3>
-
-<table>
+<table width="100%">
   <tr>
-    <td width="33%" valign="top">
-      <h4 align="center"><b>Languages & Systems</b></h4>
-      <ul>
-        <li><b>Low-Level:</b> C++20 • Rust • C • Assembly</li>
-        <li><b>High-Level:</b> Luau • TypeScript • Go • Python • PHP</li>
-        <li><b>Architecture:</b> Service-Controller • Finite State Machines • BSP • A* Pathfinding</li>
-      </ul>
+    <td width="50%" valign="top">
+      <h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Icons/master/Emojis/Travel%20and%20places/Rocket.png" width="28" /> <b>stats & activity</b></h3>
+      <div align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=qzhcore&theme=tokyonight&background=0d0d0d&border=1a1a1a&ring=7aa2f7&fire=7dcfff&currStreakLabel=7dcfff&sideLabels=a9b1d6&dates=555555&currStreakNum=ffffff&sideNums=a9b1d6&hide_border=true" width="100%" alt="Streak Stats" />
+        <br/><br/>
+        <img src="https://github-readme-stats.vercel.app/api?username=qzhcore&show_icons=true&theme=tokyonight&bg_color=0d0d0d&border_color=1a1a1a&icon_color=7aa2f7&title_color=7dcfff&text_color=a9b1d6&hide_border=true&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats" />
+      </div>
     </td>
-    <td width="33%" valign="top">
-      <h4 align="center"><b>Game & Web Infrastructure</b></h4>
-      <ul>
-        <li><b>Engines:</b> Roblox Studio (roblox-ts) • Unity • Unreal Engine</li>
-        <li><b>Backend:</b> Node.js • Express • PostgreSQL • Redis</li>
-        <li><b>Cloud & DevOps:</b> AWS • Docker • Linux • Git • GitHub Actions</li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <h4 align="center"><b>Tooling & AI Ecosystem</b></h4>
-      <ul>
-        <li><b>Roblox Toolchain:</b> Rojo • Aftman • Selene • StyLua • Luau-LSP</li>
-        <li><b>Open Source:</b> UI-Importer-Pro • Custom Anti-Cheat Frameworks</li>
-        <li><b>AI / ML:</b> PyTorch • Ollama • Blender Workflow</li>
-      </ul>
+    <td width="50%" valign="top">
+      <h3 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Icons/master/Emojis/Symbols/Musical%20Notes.png" width="28" /> <b>currently listening</b></h3>
+      <div align="center">
+        <a href="https://open.spotify.com/user/31jz6fxoielwykz4tk45p55a4pza">
+          <img src="https://spotify-github-profile.vercel.app/api/view?uid=31jz6fxoielwykz4tk45p55a4pza&cover_image=true&theme=tokyonight&show_offline=true&background_color=0d0d0d&interchange=true" width="100%" alt="Spotify Listening" />
+        </a>
+        <br/><br/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=qzhcore&layout=compact&theme=tokyonight&bg_color=0d0d0d&border_color=1a1a1a&title_color=7dcfff&text_color=a9b1d6&hide_border=true&langs_count=6" width="100%" alt="Top Languages" />
+      </div>
     </td>
   </tr>
 </table>
 
-<hr />
-
-<h3 align="left"><b>contributions</b></h3>
+<br />
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/qzhcore/qzhcore/output/github-contribution-grid-snake-dark.svg" width="100%" alt="3D Contribution Snake" />
 </div>
 
-<hr />
-
-<h3 align="left"><b>stats & activity</b></h3>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qzhcore&theme=tokyonight&background=0d0d0d&border=1a1a1a&ring=7aa2f7&fire=7dcfff&currStreakLabel=7dcfff&sideLabels=a9b1d6&dates=555555&currStreakNum=ffffff&sideNums=a9b1d6" height="170" alt="Streak Stats" />
-  &nbsp;
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=qzhcore&theme=react-dark&bg_color=0d0d0d&color=7dcfff&line=7aa2f7&point=ffffff&area=true&hide_border=true" height="170" alt="Activity Graph" />
-</div>
-
-<hr />
-
-<h3 align="left"><b>darkk games</b></h3>
-
-<p align="center">Independent Roblox development studio building server-authoritative multiplayer games and immersive experiences.</p>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/qzhcore/qzhcore/main/copy_0825CE3A-6AA8-4945-B3E9-C7CAE2BB9E4D-1-1-1.gif" width="100%" style="border-radius: 8px; border: 1px solid #1a1a1a;" alt="Darkk Games Preview" />
-  <br /><br />
-  <a href="https://discord.gg/P9YVDujmfJ">
-    <img src="https://img.shields.io/badge/Discord-Join_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  &nbsp;
-  <a href="https://www.youtube.com/@weluvdarkk">
-    <img src="https://img.shields.io/badge/YouTube-@weluvdarkk-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-</div>
-
-<hr />
-
-<h3 align="left"><b>connect</b></h3>
-
-<div align="center">
-  <a href="mailto:expressionsqzhl@gmail.com">
-    <img src="https://img.shields.io/badge/Email-expressionsqzhl@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://twitter.com/qzhcore">
-    <img src="https://img.shields.io/badge/Twitter-@qzhcore-1da1f2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
-  </a>
-  &nbsp;
-  <a href="https://open.spotify.com/user/31jz6fxoielwykz4tk45p55a4pza?si=21ed3282c4874bc1">
-    <img src="https://img.shields.io/badge/Spotify-Profile-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
-  </a>
-</div>
-
 <br />
 
+<h3 align="center"><b>connect</b></h3>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d0d0d&height=80&section=footer" width="100%" alt="Footer Banner" />
+  <a href="mailto:expressionsqzhl@gmail.com"><img src="https://img.shields.io/badge/Email-expressionsqzhl@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://twitter.com/qzhcore"><img src="https://img.shields.io/badge/Twitter-@qzhcore-1da1f2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
+  <a href="https://open.spotify.com/user/31jz6fxoielwykz4tk45p55a4pza"><img src="https://img.shields.io/badge/Spotify-Profile-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" /></a>
 </div>
+
+<br /><br />
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d0d0d&height=80&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7aa2f7,7dcfff,3b4261&height=100&section=footer" width="100%" alt="Footer Banner Animated" />
 </div>
